@@ -3,3 +3,6 @@ Milk
 Bread
 Jam
 Butter
+Pasta
+Basmati Rice
+Sunflower oil
